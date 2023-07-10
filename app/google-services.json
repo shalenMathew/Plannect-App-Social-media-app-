@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104029136071",
+    "project_id": "plannect-22777",
+    "storage_bucket": "plannect-22777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104029136071:android:bf4ab12e9ca4e3f5e08ae2",
+        "android_client_info": {
+          "package_name": "com.example.plannect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104029136071-kjmsjupbceg79r9sa3hi6gg1r8e1iqu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plannect",
+            "certificate_hash": "60b06403c8e80307255c9ef6deb71315d75f81c9"
+          }
+        },
+        {
+          "client_id": "104029136071-847p3ucmt5u5g1l3mlbk9cqkubs3hs70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAGmQgFw9tLvm7q9YyHwIvvU-wcH4BA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104029136071-847p3ucmt5u5g1l3mlbk9cqkubs3hs70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
