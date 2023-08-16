@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
     // this is update from trial branch
 
+    // this patch 2.0 from trial_branch
+
     ChipNavigationBar chipNavigationBar;
    Toolbar toolbar;
 
