@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
     // this patch 2.0 from trial_branch
 
+    // Activating patch_branch DNA ... Activation may take some time
+
     ChipNavigationBar chipNavigationBar;
    Toolbar toolbar;
 
