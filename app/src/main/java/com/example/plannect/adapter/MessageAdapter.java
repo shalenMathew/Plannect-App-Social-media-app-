@@ -104,6 +104,7 @@ FirebaseUser currUser;
 
         currUser= FirebaseAuth.getInstance().getCurrentUser();
 
+        // here we are creating the logic of which layout should be used when
         if(chatsList.get(position).getSender().equals(currUser.getUid())){
 
             return MSG_TYPE_RIGHT;

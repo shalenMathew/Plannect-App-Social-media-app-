@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             Intent i = new Intent(MainActivity.this, LoginActivity.class);
-            i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
+            i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK); // makes sure all activity is removed from stack
             startActivity(i);
         } else if (item.getItemId()==R.id.add_post) {
             startActivity(new Intent(MainActivity.this,AddPostActivity.class));
