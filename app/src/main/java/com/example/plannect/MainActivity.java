@@ -24,6 +24,7 @@ import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
 
+    // new Change
 
     ChipNavigationBar chipNavigationBar;
    Toolbar toolbar;
